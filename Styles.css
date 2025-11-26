@@ -1,0 +1,27 @@
+body{
+    background-color: #eee;
+    font-family: sans-serif;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav{
+    background-color: #2421d8;   
+}
+.nav__list{
+
+    margin: 0;
+    text-align: center;
+}
+.nav__item{
+    display: inline-block;
+    padding: 10px;
+    background-color: #2421d8;
+}
+.nav__item:hover{
+    background-color: #4b48fa;
+}
